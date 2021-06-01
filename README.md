@@ -30,6 +30,8 @@ users:
 # Run the automation
 Write automated test cases for the three users in the MyTestClass(BaseCase):
 ```
+from seleniumbase import BaseCase
+
 class MyTestClass(BaseCase):
 
     def test_basics(self):
@@ -45,4 +47,4 @@ class MyTestClass(BaseCase):
 ```
 
 How to run the test file
-`pytest seleniumbase.py`
+`pytest sbaseTest.py`
