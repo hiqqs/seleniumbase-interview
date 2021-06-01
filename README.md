@@ -1,9 +1,9 @@
 # seleniumbase-interview
-
 Take home project test for seleniumbase.io & python. For more on the pytest webdriver framework reference: www.seleniumbase.io
 
+---
 # Fork this project and create a pull request to this repository
-
+---
 # Pre-requisites
 Having the following installed
 
