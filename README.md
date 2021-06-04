@@ -48,3 +48,8 @@ class MyTestClass(BaseCase):
 
 How to run the test file
 `pytest sbaseTest.py`
+
+
+Output
+
+![Alt text](output.png?raw=true "Output")
